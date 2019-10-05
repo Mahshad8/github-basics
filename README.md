@@ -1,2 +1,1 @@
-# github-basics
-Remote repo to help me build my Git skills
+I am trying to do some database projects and using SQL SERVER
